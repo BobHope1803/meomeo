@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1074201822120",
+    "project_id": "meomeoapp-f19af",
+    "storage_bucket": "meomeoapp-f19af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074201822120:android:cdffb9b9ee5fa687af539d",
+        "android_client_info": {
+          "package_name": "com.bob.meomeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074201822120-3p92jp0q1suab51taaf2bkqt83l96lhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.meomeo",
+            "certificate_hash": "1f3e9c5ce2511caca5d354e2a99f819b9173f91f"
+          }
+        },
+        {
+          "client_id": "1074201822120-if04n5ic76rpde7nmiocdo1b78p7dree.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2CIxQKkhjEYsOpaagoWLrVG4R_RWYT9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074201822120-if04n5ic76rpde7nmiocdo1b78p7dree.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074201822120-e8qlnt6fffd7alg5ohf8mpnpgn12pcb3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.meomeo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
